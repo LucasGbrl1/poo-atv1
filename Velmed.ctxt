@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Velmed
+comment1.params=
+comment1.target=Velmed()
+comment2.params=distancia\ tempo
+comment2.target=Velmed(double,\ double)
+comment3.params=
+comment3.target=double\ calcular()
+comment4.params=
+comment4.target=java.lang.String\ interpretar()
+numComments=5
